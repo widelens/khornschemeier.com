@@ -1,10 +1,6 @@
-<img src="/img/header/logo.png">
-
 # Kevin Hornschemeier
 
 I'm a software engineer generalist with a computer science background in C/C++, algorithms, and data structures, and over 10 years of full-stack web development experience. This is the code for my personal web site, [khornschemeier.com][].
-
-----------------------------------------
 
 ## Technologies
 
@@ -50,10 +46,10 @@ The configuration for the database is in [database.php](application/config/datab
 Routes can be added/edited in [routes](application/config/routes.php).
 
 **View / Templates**
-Take a look at [site.php](application/controllers/site.php) for examples. The templates for [head.php](application/views/templates/head.php) and [foot](application/views/templates/foot.php) should be included on every page to set up the basic HTML wrapper and include the necessary css and js files. The home page has its own template under [home.php](application/views/templates/home.php) that pulls in the head.php and foot.php files. Interior pages all use the same template under [interior.php](application/views/templates/interior.php) which pulls in an additional [interior-header](application/views/templates/interior-header.php) file and will need additional parameters passed in to use it - [example](application/controllers/site.php:31).
+Take a look at [site.php](application/controllers/site.php) for examples. The templates for [head.php](application/views/templates/head.php) and [foot](application/views/templates/foot.php) should be included on every page to set up the basic HTML wrapper and include the necessary css and js files. The home page has its own template under [home.php](application/views/templates/home.php) that pulls in the head.php and foot.php files. Interior pages all use the same template under [interior.php](application/views/templates/interior.php) which pulls in an additional [interior-header](application/views/templates/interior-header.php) file and will need additional parameters passed in to use it - [example](application/controllers/site.php#L31).
 
 **CSS / LESS**
-The LESS files are in html/less/ and are use for all CSS markup. There is a route specified for any .less files in this folder to get dynamically compiled via PHP and a CSS file is returned - [example](application/controllers/site.php:17). To view the generated CSS just browse to the link, [example][http://khornschemeier.com/less/global.less].
+The LESS files are in html/less/ and are use for all CSS markup. There is a route specified for any .less files in this folder to get dynamically compiled via PHP and a CSS file is returned - [example](application/controllers/site.php#L17). To view the generated CSS just browse to the link, [example][http://khornschemeier.com/less/global.less].
 
 **Javascript**
 jQuery is included via Google's CDN. There is a global javascript object under [khornschemeier.js](html/js/khornschemeier.js) to help organize the javascript bindings and methods for the entire site. In [foot.php](applications/views/templates/foot.php) you will find a `$(document).ready()` set up.
