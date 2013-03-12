@@ -30,22 +30,22 @@
 			Finishing khornschemeier.com. <br />
 			<br />
 			Technologies used:<br />
-			<ul class="knowledge">
-				<li>HTML</li>
-				<li>CSS</li>
-				<li>LESS</li>
-				<li>Javascript</li>
-				<li>jQuery</li>
-				<li>Twitter Bootstrap</li>
-				<li>Google Web Fonts</li>
-				<li>PHP</li>
-				<li>MySQL</li>
-				<li>CodeIgniter MVC Framework</li>
-				<li>Responsive Design</li>
-				<li>Google Analytics</li>
-				<li>Git</li>
-				<li>Photoshop</li>
-			</ul>
 		</p>
+		<ul class="knowledge">
+			<li>HTML</li>
+			<li>CSS</li>
+			<li>LESS</li>
+			<li>Javascript</li>
+			<li>jQuery</li>
+			<li>Twitter Bootstrap</li>
+			<li>Google Web Fonts</li>
+			<li>PHP</li>
+			<li>MySQL</li>
+			<li>CodeIgniter MVC Framework</li>
+			<li>Responsive Design</li>
+			<li>Google Analytics</li>
+			<li>Git</li>
+			<li>Photoshop</li>
+		</ul>
 		<a href="/work">View other work</a>
 	</aside>

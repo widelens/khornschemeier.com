@@ -56,7 +56,7 @@ class Site extends CI_Controller
 	public function work()
 	{
 		$template_data['hero_image_xl'] = 'work-XL';
-		$template_data['hero_image'] = 'work-car';
+		$template_data['hero_image'] = 'work';
 		$template_data['hero_image_alt'] = 'Butano State Park, California';
 		$template_data['title'] = 'Work';
 		$template_data['subtitle'] = 'Software Engineering';
