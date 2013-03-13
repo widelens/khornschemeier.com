@@ -7,8 +7,8 @@
 				<nav>
 					<ul class="hidden-phone">
 						<li><a href="/family">Family</a></li>
-						<li><a href="/travel">Travel</a></li>
-						<li><a href="/photography">Photography</a></li>
+						<!--<li><a href="/travel">Travel</a></li>-->
+						<!--<li><a href="/photography">Photography</a></li>-->
 						<li><a href="/work">Work</a></li>
 						<li><a href="/contact">Contact</a></li>
 					</ul>

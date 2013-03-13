@@ -88,7 +88,8 @@ class Site extends CI_Controller
 		$template_data['hero_image'] = 'contact';
 		$template_data['hero_image_alt'] = '';
 		$template_data['title'] = 'Contact';
-		$template_data['subtitle'] = "Let's chat";
+		$template_data['subtitle'] = "Let's talk";
+		$template_data['js_includes'] = '<script type="text/javascript" src="http://platform.linkedin.com/in.js">0myij2plauey</script>';
 		$template_data['content'] = $this->load->view('contact', NULL, TRUE);
 		$this->load->view('templates/interior', $template_data);
 	}

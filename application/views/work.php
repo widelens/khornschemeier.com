@@ -66,7 +66,7 @@
 	<img src="/img/work/nomad.jpg" alt="nomad" class="hidden-phone">
 	<div class="caption">
 		<p>
-			This was a personal side project where I could capture and upload hikes that I took (via KML files) and photos that I captured along the way and the site would showcase my hikes with Google Maps and the photos shown at the location they were taken. I created an admin area where I could upload the hikes and photos by location, and also edit and delete them. I also wrote my own form validation for javascript and PHP as an exercise in creating a good UI on the front-end and an easy way to reuse validation rules on both the front-end and back-end.<br />
+			This was a personal side project where I could capture and upload hikes that I took (via KML files) and photos that I captured along the way and the site would showcase my hikes with Google Maps and the photos shown at the location they were taken. I built it with its own REST API which the site itself uses. I created an admin area where I could upload the hikes and photos by location, and also edit and delete them. I also wrote my own form validation for javascript and PHP as an exercise in creating a good UI on the front-end and an easy way to reuse validation rules on both the front-end and back-end.<br />
 			<br />
 			Technologies used:<br />
 		</p>

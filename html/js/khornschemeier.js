@@ -7,7 +7,7 @@ var kh = (function() {
 	/* object methods */
 	return {
 		select: {
-			bind_nav_change: function() {
+			bindNavChange: function() {
 				$('nav select').change(function() {
 					location = this.options[this.selectedIndex].value;
 				});
