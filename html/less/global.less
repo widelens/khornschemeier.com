@@ -107,12 +107,13 @@ nav {
  * min-width 1024px: Show larger banner
  */
 .hero {	
-	.main, .main-XL, .kevin {
+	.main {
 		display: none;
 	}
 	
-	.kevin-small {
+	.kevin {
 		float: left;
+		max-width: 50px;
 	}
 }
 
@@ -157,13 +158,8 @@ nav {
 
 @media screen and (min-width: 600px) {
 	.hero {
-		.kevin-small {
-			display: none;
-		}
-		
 		.kevin {
-			display: block;
-			float: left;
+			max-width: 100%;
 		}
 	}
 	
@@ -224,25 +220,13 @@ nav {
 	}
 }
 
-@media screen and (min-width: 1024px) {
-	.hero {
-		.main {
-			display: none;
-		}
-		
-		.main-XL {
-			display: block;
-		}
-	}
-}
-
 /* INTERIOR **********************************************************
  * Default: No hero image, stacked content
  * min-width 768px: Show graphical elements (smaller banner)
  * min-width 1024px: Show larger banner
  */
 .interior .hero {	
-	.main, .main-XL {
+	.main {
 		display: none;
 	}
 }
@@ -270,11 +254,13 @@ nav {
 }
 
 @media screen and (min-width: 768px) {
-	.interior .hero {
-		position: relative;
+	.interior {
+		.hero {
+			position: relative;
 		
-		.main {
-			display: block;
+			.main {
+				display: block;
+			}
 		}
 	}
 
@@ -300,18 +286,6 @@ nav {
 			font-weight: 200;
 			margin-left: 11px;
 			padding-top: 14px;
-		}
-	}
-}
-
-@media screen and (min-width: 1024px) {
-	.interior .hero {
-		.main {
-			display: none;
-		}
-		
-		.main-XL {
-			display: block;
 		}
 	}
 }
@@ -505,7 +479,28 @@ nav {
 			border-radius: 4px;
 			padding: 4px;
 			margin-top: 25px;
+			margin-right: 25px;
+			max-width: 200px;
 		}
 	}
 }
-			
+
+@media screen and (min-width: 600px) {
+	.family {
+		.photos {
+			img {
+				max-width: 250px;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.family {
+		.photos {
+			img {
+				max-width: 100%;
+			}
+		}
+	}
+}

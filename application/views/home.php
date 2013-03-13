@@ -1,10 +1,8 @@
 	<div class="row-fluid">
 		<div class="span12">
 			<section class="hero">
-				<img src="/img/hero/home.jpg" alt="Pescadero Beach, California" class="main">
-				<img src="/img/hero/home-XL.jpg" alt="Pescadero Beach, California" class="main-XL">
+				<img src="/img/hero/home-XL.jpg" alt="Pescadero Beach, California" class="main">
 				<img src="/img/hero/kevin.png" alt="Kevin Hornschemeier" class="kevin">
-				<img src="/img/hero/kevin-small.png" alt="Kevin Hornschemeier" class="kevin-small">
 			</section>
 			<section class="nameplate">
 				<h1>Kevin Hornschemeier</h1>

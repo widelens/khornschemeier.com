@@ -16,8 +16,8 @@
 						<option value="" selected="selected">Select Page</option>
 						<option value="/">Home</option>
 						<option value="/family">Family</option>
-						<option value="/travel">Travel</option>
-						<option value="/photography">Photography</option>
+						<!--<option value="/travel">Travel</option>-->
+						<!--<option value="/photography">Photography</option>-->
 						<option value="/work">Work</option>
 						<option value="/contact">Contact</option>
 					</select>

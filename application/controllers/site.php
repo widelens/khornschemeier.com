@@ -29,7 +29,6 @@ class Site extends CI_Controller
 	public function family()
 	{
 		$template_data['hero_image_xl'] = 'family-XL';
-		$template_data['hero_image'] = 'family';
 		$template_data['hero_image_alt'] = 'Kevin Hornschemeier, Jennifer Hornschemeier, Everett Hornschemeier';
 		$template_data['title'] = 'Family';
 		$template_data['subtitle'] = 'Kevin, Jennifer, Everett';
@@ -43,7 +42,6 @@ class Site extends CI_Controller
 	public function travel()
 	{
 		$template_data['hero_image_xl'] = 'travel-XL';
-		$template_data['hero_image'] = 'travel';
 		$template_data['hero_image_alt'] = '';
 		$template_data['title'] = 'Travel';
 		$template_data['subtitle'] = 'Seeing the World';
@@ -57,7 +55,6 @@ class Site extends CI_Controller
 	public function photography()
 	{
 		$template_data['hero_image_xl'] = 'photography-XL';
-		$template_data['hero_image'] = 'photography';
 		$template_data['hero_image_alt'] = '';
 		$template_data['title'] = 'Photography';
 		$template_data['subtitle'] = 'Capturing Moments';
@@ -71,7 +68,6 @@ class Site extends CI_Controller
 	public function work()
 	{
 		$template_data['hero_image_xl'] = 'work-XL';
-		$template_data['hero_image'] = 'work';
 		$template_data['hero_image_alt'] = 'Butano State Park, California';
 		$template_data['title'] = 'Work';
 		$template_data['subtitle'] = 'Software Engineering';
@@ -85,7 +81,6 @@ class Site extends CI_Controller
 	public function contact()
 	{
 		$template_data['hero_image_xl'] = 'contact-XL';
-		$template_data['hero_image'] = 'contact';
 		$template_data['hero_image_alt'] = '';
 		$template_data['title'] = 'Contact';
 		$template_data['subtitle'] = "Let's talk";
