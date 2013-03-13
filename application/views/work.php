@@ -39,7 +39,7 @@
 	<h2>LamsonEnia Design</h2>
 	<div class="caption">
 		<p>
-			A design and marketing agency where I am the Director of Technology and managing all aspects of our technical stack. I work on maintaining existing clients sites, building out new sites, and managing a few remote Flash developers for a large client's site. I am also building the technical architecture for an in-house CMS to be used on future client sites.<br />
+			A design and marketing agency where I am the Director of Technology and manage all aspects of our technical stack. I maintain existing clients sites, build new sites, and manage a few remote Flash developers for a large client's site. I am also building the technical architecture for an in-house CMS to be used for future client sites.<br />
 			<br />
 			Technologies used:<br />
 		</p>
@@ -104,7 +104,7 @@
 	<img src="/img/work/venturepax.jpg" alt="venturepax.com" class="hidden-phone">
 	<div class="caption">
 		<p>
-			Venturepax was a Cincinnati start-up where I was brought on as the technical co-founder. The site allowed users to search for outdoor activities based on the user's location and the specific activity they were looking to do. Content was curated from multiple sources including an outdoor book publisher, publicly available content, and user submitted content. Initially I helped maintain and expand the version of the site that existed when I was brought on board. I also initiated and managed an outside source for the first mobile app. After the decision was made to pivot and redesign the experience, I took over the architecture and planning for the technology pieces. The site was rebuilt from the ground up with a new database schema, new framework, and new functionality. An iPhone developer was hired who I coordindated with on the new mobile app. I eventually had to leave because funding had run out.<br />
+			A Cincinnati start-up where I was brought on as the technical co-founder. The site allowed users to search for outdoor activities based on the user's location and the specific activity they were looking to do. Content was curated from multiple sources including an outdoor book publisher, publicly available content, and user submitted content. Initially I helped maintain and expand the existing version of the site and managed an outside source for our first mobile app. When redesigning the experience, I took over the architecture and planning for the technology stack. I rebuilt the site from the ground up with a new database schema, framework, API, and functionality. An iPhone developer was brought on who I coordindated with on our new mobile app. I eventually had to leave because funding ran out.<br />
 			<br />
 			Technologies used:<br />
 		</p>
@@ -134,7 +134,7 @@
 
 <div class="experience">
 	<h2>The Scholar App</h2>
-	<img src="/img/work/thescholarapp.jpg" alt="The Scholar App" class="hidden-phone">
+	<img src="/img/work/thescholarapp.jpg" alt="The Scholar App" class="hidden-phone small">
 	<div class="caption">
 		<p>
 			An application I co-founded and built on the Facebook platform. It provided students with a centralized application that let them meet and collaborate with classmates, participate in class discussions, exchange notes, and receive notifications for exams. It could be used through Facebook, iPhone, or Android. Colleges were curated from online sources and the classes were curated from teachers and students submissions.<br />
@@ -165,10 +165,10 @@
 
 <div class="experience">
 	<h2>Textbook Revolt</h2>
-	<img src="/img/work/textbookrevolt.jpg" alt="Textbook Revolt" class="hidden-phone">
+	<img src="/img/work/textbookrevolt.jpg" alt="Textbook Revolt" class="hidden-phone small">
 	<div class="caption">
 		<p>
-			Another site I co-founded and built, Textbook Revolt began addressing the problem of high priced textbooks by experimenting with a completely free college textbook exchange named Socialbib. Students could list the textbooks they were done with and view the available textbooks from other students and create exchanges. The site received many accolades from students who were previously dissatisfied with the options available to them. As a result, students from over 1,300 schools nationwide joined Socialbib and posted over $1,000,000 in college textbooks. The site was sold.<br />
+			A site I co-founded and built. We began addressing the problem of high priced textbooks by experimenting with a completely free college textbook exchange. Students could list the textbooks they were done with and view available textbooks from other students to create exchanges. The site received many accolades from students who were previously dissatisfied with the other options available to them. As a result, students from over 1,300 schools nationwide joined and posted over $1,000,000 in college textbooks. We eventually sold the site.<br />
 			<br />
 			Technologies used:<br />
 		</p>
@@ -206,7 +206,7 @@
 	<img src="/img/work/publicitweet.jpg" alt="Publicitweet" class="hidden-phone">
 	<div class="caption">
 		<p>
-			PubliciTweet was a social media marketing application that I co-founded and built from the ground up. It aimed at providing in-depth analytics for Twitter campaigns. The analytics went beyond the number of clicks and provided detailed information on which users had the most referrals and the overall reach. It allowed businesses, musicians or other groups to communicate with their followers on Twitter and track the success of those campaigns. The site provided tools to send mass direct messages, determine which followers referred the most clicks, and where the clicks came from. The site was sold.<br />
+			PubliciTweet was a social media marketing application that I co-founded and built from the ground up. It aimed at providing in-depth analytics for Twitter campaigns. The analytics went beyond the number of clicks and provided detailed information on which users had the most referrals and the overall reach. It allowed businesses, musicians or other groups to communicate with their followers on Twitter and track the success of those campaigns. The site provided tools to send mass direct messages, determine which followers referred the most clicks, and where the clicks came from. We eventually sold the site.<br />
 			<br />
 			Technologies used:<br />
 		</p>
@@ -238,7 +238,7 @@
 	<img src="/img/work/photagious.jpg" alt="Photagious" class="hidden-phone">
 	<div class="caption">
 		<p>
-			Photagious was a photo sharing and managing application with the unique ability to create slideshows of photos and add graphical enhancements on top of them. When hired, I helped the technical co-founder with building a new site from the ground up. I was also integral in building out the forums and helped with most of the functionality of the site. The site had approximately 1 million uploaded photos and 10,000 users before having to be shut down due to lack of funding.<br />
+			Photagious was a photo sharing and managing application with the unique ability to create slideshows and add graphical enhancements on top of them. When hired, I helped the technical co-founder with building a new site from the ground up. I was also integral in building out the forums and helped with most of the functionality of the site. The site had approximately 1 million uploaded photos and 10,000 users before having to be shut down due to lack of funding.<br />
 			<br />
 			Technologies used:<br />
 		</p>
@@ -284,7 +284,7 @@
 	<h2>TellUs</h2>
 	<div class="caption">
 		<p>
-			A design and marketing agency where I was the lead developer. I managed existing client sites, built new clients, and led our QA and ecommerce development. I also helped out on strategy, SEO, and analytics.<br />
+			A design and marketing agency where I led the development. I managed existing client sites, built new sites, and led our QA and e-commerce initiatives. I also helped out on strategy, SEO, and analytics reports.<br />
 			<br />
 			Technologies used:<br />
 		</p>
@@ -314,7 +314,7 @@
 	<h2>Strata-G Communications</h2>
 	<div class="caption">
 		<p>
-			A design and marketing agency where I was a web developer. I managed existing client sites, built new clients, and helped with analytics and SEO.<br />
+			A design and marketing agency where I managed existing client sites, built new sites, and helped with analytics and SEO.<br />
 			<br />
 			Technologies used:<br />
 		</p>

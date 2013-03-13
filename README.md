@@ -52,7 +52,7 @@ Take a look at [site.php](application/controllers/site.php) for examples. The te
 The LESS files are in html/less/ and are use for all CSS markup. There is a route specified for any .less files in this folder to get dynamically compiled via PHP and a CSS file is returned - [example](application/controllers/site.php#L17). To view the generated CSS just browse to the link, [example][http://khornschemeier.com/less/global.less].
 
 ####Javascript
-jQuery is included via Google's CDN. There is a global javascript object under [khornschemeier.js](html/js/khornschemeier.js) to help organize the javascript bindings and methods for the entire site. In [foot.php](applications/views/templates/foot.php) you will find a `$(document).ready()` set up.
+jQuery is included via Google's CDN. There is a global javascript object under [khornschemeier.js](html/js/khornschemeier.js) to help organize the javascript bindings and methods for the entire site. In [foot.php](applications/views/templates/foot.php) you will find a `$(document).ready()` set up. There is also a `$js_includes` variable in the foot.php where you can pass in any extra script tags to include javascript for specific pages. There is also a `$js` variable where you can pass in page-specific javascript to be run. Ideally in the controller you would load a new template into the `$js` variable where the template contains all the page-specific javascript.
 
 ####Responsive Design
 The site is built using Twitter Bootstrap and responsive design principles to give the user a fast and pleasant experience no matter which device they are using. The site should work well from a potrait mobile phone all the way up to a very large desktop.
