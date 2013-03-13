@@ -23,7 +23,7 @@
 				2327 Pleasant Meadows Dr<br />
 				Batavia, OH 45103
 			</address>
-			<img class="roadmap" src="//maps.googleapis.com/maps/api/staticmap?center=2327+Pleasant+Meadows+Dr,Batavia,OH&amp;zoom=9&amp;size=600x300&amp;maptype=roadmap&amp;markers=color:blue%7Clabel:S%7C39.074576,-84.145982&amp;sensor=false" alt="2327 Pleasant Meadows Dr, Batavia, OH">
+			<img class="roadmap" src="//maps.googleapis.com/maps/api/staticmap?center=2327+Pleasant+Meadows+Dr,Batavia,OH&amp;zoom=9&amp;size=600x300&amp;maptype=roadmap&amp;markers=color:blue%7Clabel:%7C39.074576,-84.145982&amp;sensor=false" alt="2327 Pleasant Meadows Dr, Batavia, OH">
 		</aside>
 	</div>
 </div>

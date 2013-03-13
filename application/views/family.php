@@ -3,7 +3,7 @@
 		<section class="us">
 			<h2>Our Family</h2>
 			<p>
-				My wife and I have been together for over 11 years now and married for 3.5 of them. On September 25, 2012 we welcomed the newest addition to our family and can't imagine life without him. We enjoy spending time together walking, hiking, biking, kayaking, and just relaxing at home. We currently live in Cincinnati, OH but would like to eventually move to a warmer area where we can enjoy being outside all year long, where more fresh food available, and better job opportunities for me.
+				My wife and I have been together for over 11 years now and married for 3.5 of them. On September 25, 2012 we welcomed the newest addition to our family and can't imagine life without him. We enjoy spending time together walking, hiking, biking, kayaking, and just relaxing at home. We currently live in Cincinnati, OH but would like to eventually move to a warmer area where we can enjoy being outside all year long, where fresh food is available, and job opportunities more suited to me.
 			</p>
 		</section>
 	</div>
