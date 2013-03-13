@@ -1,6 +1,6 @@
 # Kevin Hornschemeier
 
-I'm a software engineer generalist with a computer science background in C/C++, algorithms, and data structures, and over 10 years of full-stack web development experience. This is the code for my personal web site, [khornschemeier.com][].
+I'm a software engineer generalist with a computer science background in C/C++, algorithms, and data structures, and over 10 years of full-stack web development experience. This is the code for my personal web site, [khornschemeier.com][http://khornschemeier.com].
 
 ## Technologies
 
