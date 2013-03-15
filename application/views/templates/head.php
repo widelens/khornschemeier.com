@@ -13,7 +13,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="/less/global.less?v=7">
+		<link rel="stylesheet" type="text/css" href="/less/global.less?v=10">
 	</head>
 	<body class="<?= $_SERVER['REQUEST_URI'] == '/' ? 'home' : str_replace('/', '', $_SERVER['REQUEST_URI']) . ' interior'; ?>">
 		<script type="text/javascript">

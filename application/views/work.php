@@ -1,4 +1,12 @@
-<div class="experience">
+<div class="row-fluid">
+	<div class="span5 offset7">
+		<aside class="downloads">
+			<a href="/pdf/kevin-hornschemeier-resume.pdf" target="_blank" type="application/pdf"><i class="icon-file"></i> View r&eacute;sum&eacute; (pdf)</a>
+			<a href="https://github.com/khornschemeier" target="_blank"><img src="/img/octocat.png" alt="Github"> View Github profile</a>
+		</aside>
+	</div>
+</div>
+<div class="experience first">
 	<h2>khornschemeier.com</h2>
 	<img src="/img/work/khornschemeier.jpg" alt="khornschemeier.com" class="hidden-phone">
 	<div class="caption">
