@@ -1,6 +1,6 @@
 # Kevin Hornschemeier
 
-I'm a software engineer with a computer science degree and background in C/C++, algorithms, data structures, and over 11 years of full-stack web development experience. This is the code for my personal web site.
+I'm a software engineer with a computer science degree and background in C/C++, algorithms, data structures, and over 13 years of full-stack web development experience. This is the code for my personal web site.
 
 ## Technologies
 
